@@ -3,7 +3,7 @@ A Streamlit app that predicts house prices based on location and property featur
 
 # House Price Prediction App
 
-This project predicts estimated house prices based on district, neighborhood, and property features such as square meters, number of rooms, age, and floor.
+This project predicts estimated house prices based on district, neighborhood, and property features such as square meters, number of rooms, age, and floor with 0.92 R2 rate.
 
 Technologies Used:
 - Python
