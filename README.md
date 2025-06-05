@@ -17,4 +17,5 @@ Model: Trained using Random Forest and saved with joblib.
 
 To Run the App:
 1. Install required libraries: `pip install -r requirements.txt`
-2. Launch the app: `streamlit run app.py`
+2. real-estate-valuation-app-istanbul > 5-Tuning_Export run code and save .pkl file
+3. Launch the app: 'cd <file path>' then `streamlit run app.py`
